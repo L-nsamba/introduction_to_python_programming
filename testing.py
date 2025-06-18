@@ -21,8 +21,14 @@ print(3**3 + 3 <= 30) #False
 print('hello' != 'Hello') #True"""
 
 
-the_answer = 7
+"""the_answer = 7
 an_int = 7000
 a_float = 1000
 
-print(the_answer == (an_int/ a_float))
+print(the_answer == (an_int/ a_float))"""
+
+#print("1 2 3 4 5 6 7 8 9 10")
+
+print(str("Supercalifragilisticexpialidocious"))
+
+print(int(99.99))
